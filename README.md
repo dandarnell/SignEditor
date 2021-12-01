@@ -1,5 +1,5 @@
 # Sign Editor
-A web-based editor for digital street signage in the field  
+A web-based editor for digital street signage  
 Designed and developed by Daniel Darnell  
 Written in JavaScript, HTML, CSS, and PHP  
 *The source code for this product is proprietary and cannot be made available*  
