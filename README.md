@@ -9,7 +9,7 @@ This web-based editor allows customers to remotely control several different mod
   
 The editor is written in vanilla JavaScript, with an interface designed in HTML and CSS. Sent messages are communicated to signs in the field through a PHP backend on the server, which then connects to the sign controller via a cellular connection. The editor supports multiple messages per sign, multiple sign styles (pixel array, monospaced, line spaced), kerning, leading, three high-visibility fonts, and several common default messages.
   
-The editor is currently in use by hundreds of individual customers, local municipalities, state departments of transportation, and police departments.
+The editor is currently in use by several individual customers, local municipalities, state departments of transportation, and police departments.
 
 ## Screenshots
 *Sign Editor displaying "Hello, world!" in a bolded font:*  
