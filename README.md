@@ -13,16 +13,16 @@ The editor is currently in use by hundreds of individual customers, local munici
 
 ## Screenshots
 *Sign Editor displaying "Hello, world!" in a bolded font:*  
-<img src="/img/page1.png" width="646px">  
+<img src="/img/page1.png" width="550px">  
   
 *Sign Editor displaying "This text blinks!" in a normal font with blinking enabled:*  
-<img src="/img/page2.png" width="646px">  
+<img src="/img/page2.png" width="550px">  
   
 *Sign Editor displaying "You can justify text too" in a normal font justified to the left:*  
-<img src="/img/page3.png" width="646px">  
+<img src="/img/page3.png" width="550px">  
   
 *Sign Editor displaying "KERN" in a short font with wide kerning:*  
-<img src="/img/page4.png" width="646px">  
+<img src="/img/page4.png" width="550px">  
   
 *Sign Editor sending stored pages to sign in the field:*  
-<img src="/img/page1-sending.png" width="646px">
+<img src="/img/page1-sending.png" width="550px">
