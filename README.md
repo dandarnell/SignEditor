@@ -7,13 +7,22 @@ Written in JavaScript, HTML, CSS, and PHP
 ## About
 This web-based editor allows customers to remotely control several different models of digital road signs in the field. The editor can access any sign from anywhere, in all major browsers.  
   
-The editor supports multiple messages per sign, multiple sign styles (pixel array, monospaced, line spaced), kerning, leading, different fonts, and several common default messages.  
+The editor is written in vanilla JavaScript, with an interface designed in HTML and CSS. Sent messages are communicated to signs in the field through a PHP backend on the server, which then connects to the sign controller wirelessly. The editor supports multiple messages per sign, multiple sign styles (pixel array, monospaced, line spaced), kerning, leading, different fonts, and several common default messages.
   
 The editor is currently in use by hundreds of individual customers, local municipalities, state departments of transportation, and police departments.
 
 ## Screenshots
-![Sign Editor displaying "Hello, world!" in a bolded font](/img/page1.png)
-![Sign Editor displaying "Hello, world!" in a bolded font](/img/page2.png)
-![Sign Editor displaying "Hello, world!" in a bolded font](/img/page3.png)
-![Sign Editor displaying "Hello, world!" in a bolded font](/img/page4.png)
-![Sign Editor displaying "Hello, world!" in a bolded font](/img/page1-sending.png)
+*Sign Editor displaying "Hello, world!" in a bolded font:*  
+![Sign Editor displaying "Hello, world!" in a bolded font](/img/page1.png)  
+  
+*Sign Editor displaying "This text blinks!" in a normal font with blinking enabled:*  
+![Sign Editor displaying "This text blinks!" in a normal font](/img/page2.png)  
+  
+*Sign Editor displaying "You can justify text too" in a normal font justified to the left:*  
+![Sign Editor displaying "You can justify text too" in a normal font justified to the left](/img/page3.png)  
+  
+*Sign Editor displaying "KERN" in a short font with wide kerning:*  
+![Sign Editor displaying "KERN" in a short font with wide kerning](/img/page4.png)  
+  
+*Sign Editor sending stored pages to sign in the field:*  
+![Sign Editor sending stored pages to sign in the field](/img/page1-sending.png)
